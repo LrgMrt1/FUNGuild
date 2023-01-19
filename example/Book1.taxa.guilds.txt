@@ -1,0 +1,2 @@
+OTU	Kingdom	Phylum	Order	Class	Family	Genus	Species	taxon	taxonomicLevel	trophicMode	guild	trait	growthForm	confidenceRanking	notes	citationSource
+OTU_1	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Corticiaceae	Laetisaria	Laetisaria_fuciformis	Laetisaria	13	Pathotroph	Plant Pathogen	NULL	Corticioid	Probable	NULL	Tedersoo L, et al. 2014. Science 346:e1256688 ((https://doi.org/10.1126/science.1256688))

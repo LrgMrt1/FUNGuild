@@ -1,0 +1,2 @@
+OTU_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species
+OTU_1	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Corticiaceae	Laetisaria	Laetisaria_fuciformis

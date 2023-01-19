@@ -1,0 +1,11 @@
+OTU_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species
+OTU_100	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Corticiaceae	Laetisaria	Laetisaria_fuciformis
+OTU_1002	Fungi	Ascomycota	Leotiomycetes	Helotiales	Incertae_sedis	Leptodontidium	Leptodontidium_sp
+OTU_1003	Fungi	unidentified	unidentified	unidentified	unidentified	unidentified	uncultured_fungus
+OTU_1008	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	unidentified	Helotiaceae_sp
+OTU_1011	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Entrophospora	Entrophospora_sp_JJ38
+OTU_1015	Fungi	unidentified	unidentified	unidentified	unidentified	unidentified	uncultured_fungus
+OTU_1018	Fungi	Ascomycota	unidentified	unidentified	unidentified	unidentified	uncultured_Ascomycota
+OTU_1021	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Massarinaceae	Massarina	Massarina_sp_JP_2013
+OTU_1023	Fungi	Basidiomycota	Agaricomycetes	Boletales	Sclerodermataceae	Scleroderma	Scleroderma_areolatum
+OTU_1024	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Incertae_sedis	Derxomyces	Derxomyces_sp_LTD_2009a
